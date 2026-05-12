@@ -1,4 +1,4 @@
-# Sales Performance Dashboard | Power BI
+# Sales Performance Analysis | Excel + Power BI
 
 
 ## 🔹 Overview  
@@ -100,5 +100,5 @@ This dashboard addresses that gap by providing a unified and interactive analyti
 
 **Anshul Sajwan**  
 
-- LinkedIn: https://www.linkedin.com/in/anshul-sajwan/
+- LinkedIn: linkedin.com/in/anshul-sajwan
 - Email: anshulsajwan.32@gmail.com
