@@ -34,7 +34,6 @@ This dashboard addresses that gap by providing a unified and interactive analyti
 - Power BI – Dashboard development & visualization  
 - Microsoft Excel – Data cleaning & preprocessing  
 - DAX (Data Analysis Expressions) – KPI calculations & measures  
-- Data Modeling – Relationship building and schema design  
 
 
 ## 🔹 Workflow  
@@ -82,7 +81,6 @@ This dashboard addresses that gap by providing a unified and interactive analyti
 ## 🔹 Key Learnings  
 
 - Hands-on experience with end-to-end data analytics workflow  
-- Improved understanding of data modeling in Power BI  
 - Learned to create business-focused KPIs & measures using DAX  
 - Developed skills in dashboard design & storytelling  
 - Gained insight into real-world sales analysis scenarios  
